@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5532fa1.css",
+    "main.js": "/static/js/main.dd21a9bb.js",
+    "static/js/787.c2ede91a.chunk.js": "/static/js/787.c2ede91a.chunk.js",
+    "static/media/banner.webp": "/static/media/banner.2b6511543a9fa985d522.webp",
+    "static/media/promo1.webp": "/static/media/promo1.8955294c250ce35774bc.webp",
+    "static/media/promo3.webp": "/static/media/promo3.b92d1ef420c7ec2b266b.webp",
+    "static/media/promo4.webp": "/static/media/promo4.9a5cda348107206df84a.webp",
+    "static/media/promo2.webp": "/static/media/promo2.a74844c05b66be6cafe6.webp",
+    "service-worker.js": "/service-worker.js",
+    "static/media/mo88iCircleIcon.webp": "/static/media/mo88iCircleIcon.ca1e4abd829ed3d8a106.webp",
+    "static/media/menu4.webp": "/static/media/menu4.e7221d03f35b7b29f9ee.webp",
+    "static/media/menu3.webp": "/static/media/menu3.8910fa35281283618615.webp",
+    "static/media/menu6.webp": "/static/media/menu6.e244b36d69a49f08cd95.webp",
+    "static/media/menu8.webp": "/static/media/menu8.0b11a25b9e612f1dfb84.webp",
+    "static/media/menu2.webp": "/static/media/menu2.3acc58c7ceec5e18c2a8.webp",
+    "static/media/menu7.webp": "/static/media/menu7.40aa5dd781840f01bb24.webp",
+    "static/media/menu5.webp": "/static/media/menu5.5d58065b1d917692d674.webp",
+    "static/media/menu1.webp": "/static/media/menu1.53fa80feba2c4c98bad3.webp",
+    "static/media/nav2.webp": "/static/media/nav2.e568b02a2fe8bbfba406.webp",
+    "static/media/nav4.webp": "/static/media/nav4.580583eb808f3a29f353.webp",
+    "static/media/nav3.webp": "/static/media/nav3.8694285ce87935ccc0b1.webp",
+    "index.html": "/index.html",
+    "static/media/nav1.webp": "/static/media/nav1.8cc9e593b605c58d1aa1.webp",
+    "main.b5532fa1.css.map": "/static/css/main.b5532fa1.css.map",
+    "main.dd21a9bb.js.map": "/static/js/main.dd21a9bb.js.map",
+    "787.c2ede91a.chunk.js.map": "/static/js/787.c2ede91a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5532fa1.css",
+    "static/js/main.dd21a9bb.js"
+  ]
+}
