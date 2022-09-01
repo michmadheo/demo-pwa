@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.techbox_pwa.twa",
+                     "sha256_cert_fingerprints": ["5D:E7:3E:E4:EC:F3:1A:8E:54:E5:31:7F:08:7D:F1:64:FD:4E:56:96:5E:93:3A:7D:F2:46:67:79:F9:5E:8C:75"] }
+      }
+]
